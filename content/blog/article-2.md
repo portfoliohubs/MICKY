@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Dental Veneers"
 date: 2024-11-15
-thumbnail: "50-blog-02.jpg"
+thumbnail: "8807.jpeg"
 excerpt: "Discover how dental veneers can transform your smile and boost your confidence."
 ---
 
