@@ -47,7 +47,7 @@ education:
   graduation_year: "2025"
   
   master:
-    obtained: true
+    obtained: false
     title: "ماجستير في جراحة الفم والوجه والفكين (نسخة تجريبية)"
     year: "2027"
   
