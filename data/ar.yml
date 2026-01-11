@@ -91,14 +91,14 @@ clinical_cases:
         after: "40-endo-after-02.jpg"
         description: "حالة علاج جذور معقدة"
   
-  - category: "القشور الخزفية (الفينير)"
+  - category: "حشو تجميلى ليزر"
     cases:
-      - before: "40-veneer-before-01.jpg"
-        after: "40-veneer-after-01.jpg"
-        description: "تجميل ابتسامة كامل بقشور البورسلين"
-      - before: "40-veneer-before-02.jpg"
-        after: "40-veneer-after-02.jpg"
-        description: "ترميم تجميلي أمامي"
+      - before: "before3.jpg"
+        after: "after3.jpg"
+        description: "حشو تجميلى ليزر لسن امامى مكسور لطفل"
+    #  - before: "40-veneer-before-02.jpg"
+     #   after: "40-veneer-after-02.jpg"
+      #  description: "ترميم تجميلي أمامي"
   
   - category: "تقويم الأسنان"
     cases:
