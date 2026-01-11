@@ -92,12 +92,12 @@ clinical_cases:
         after: "40-endo-after-02.jpg"
         description: "Complex endodontic case"
 
-  - enabled: false
-    category: "Veneers"
+  - enabled: true
+    category: "esthetics by composite"
     cases:
-      - before: "40-veneer-before-01.jpg"
-        after: "40-veneer-after-01.jpg"
-        description: "Full smile makeover with porcelain veneers"
+      - before: "before3.jpg"
+        after: "after3.jpg"
+        description: "esthetics by composite class IV"
       - before: "40-veneer-before-02.jpg"
         after: "40-veneer-after-02.jpg"
         description: "Anterior aesthetic restoration"
