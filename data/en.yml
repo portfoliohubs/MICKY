@@ -68,15 +68,15 @@ education:
     - year: "2028"
       event: "Opened Private Practice"
 
-  certificates:
-    - title: "DENTAL IMPLANTOLOGY - 30H CREDIT"
-      image: "30-cert-01.jpg"
-    - title: "ADVANCED ENDODONTICS - 40H"
-      image: "30-cert-02.jpg"
-    - title: "AESTHETIC DENTISTRY CONFERENCE 2024"
-      image: "30-cert-03.jpg"
-    - title: "DIGITAL SMILE DESIGN WORKSHOP"
-      image: "30-cert-04.jpg"
+  certificates:    
+    - title: "EADS Conference - ADC21-25 Credit Hours"
+      image: "9091.jpg"
+    - title: "Empower your future- 25 Credit Hours"
+      image: "9092.webp"
+  #  - title: "AESTHETIC DENTISTRY CONFERENCE 2024"
+   #   image: "30-cert-03.jpg"
+    #- title: "DIGITAL SMILE DESIGN WORKSHOP"
+     # image: "30-cert-04.jpg"
 
 # ============================================================
 # SECTION 4: CLINICAL CASES (UPDATED WITH enabled)
