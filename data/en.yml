@@ -11,7 +11,7 @@ hero:
   graduation: "Class of 2025"
   current_position:
     role: "Operator"
-    clinic: "MICKY clinic"
+    clinic: "MICKY Center"
   profile_image: "904.jpg"
 
 # ============================================================
@@ -64,7 +64,7 @@ education:
     - year: "2025-2026"
       event: "Internship at University Hospital"
     - year: "2027"
-      event: "Started Working at MICKY Clinic"
+      event: "Started Working at MICKY Center"
     - year: "2028"
       event: "Opened Private Practice"
 
