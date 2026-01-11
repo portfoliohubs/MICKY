@@ -73,10 +73,6 @@ education:
       image: "9091.jpg"
     - title: "Empower your future- 25 Credit Hours"
       image: "9092.webp"
-  #  - title: "AESTHETIC DENTISTRY CONFERENCE 2024"
-   #   image: "30-cert-03.jpg"
-    #- title: "DIGITAL SMILE DESIGN WORKSHOP"
-     # image: "30-cert-04.jpg"
 
 # ============================================================
 # SECTION 4: CLINICAL CASES (UPDATED WITH enabled)
@@ -98,9 +94,7 @@ clinical_cases:
       - before: "before3.jpg"
         after: "after3.jpg"
         description: "esthetics by composite class IV"
-  #    - before: "40-veneer-before-02.jpg"
-   #     after: "40-veneer-after-02.jpg"
-    #    description: "Anterior aesthetic restoration"
+
 
   - enabled: false
     category: "Orthodontics"
