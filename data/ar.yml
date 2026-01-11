@@ -110,7 +110,10 @@ clinical_cases:
     cases:
       - before: "40-crown-before-01.jpg"
         after: "40-crown-after-01.jpg"
-        description: "كوبرى زركونيا للضروس بالفك العلوى"
+        description: "اربعة تلبيسات تجميلية للاسنان العلويه الاماميه"
+      - before: "40-crown-before-02.jpg"
+        after: "40-crown-after-02.jpg"
+        description: "كوبرى من الزيركونيا لتعويض ضرس علوى مفقود"
 
 # ════════════════════════════════════════════════════════════
 # القسم السادس: التواصل
