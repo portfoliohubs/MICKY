@@ -11,7 +11,7 @@ hero:
   graduation: "دفعة 2025"
   current_position:
     role: "طبيب معالج"  # الترجمة لـ Operator
-    clinic: "MICKY clinic"  # MICKY clinic
+    clinic: "MICKY Center"  # MICKY clinic
   profile_image: "904.jpg"
 
 # ════════════════════════════════════════════════════════════
@@ -64,7 +64,7 @@ education:
     - year: "2025-2026"
       event: "سنة الامتياز بالمستشفى الجامعي"
     - year: "2027"
-      event: "بداية العمل في عيادة - MICKY CLINIC"
+      event: "بداية العمل في عيادة - MICKY center"
     - year: "2028"
       event: "افتتاح العيادة الخاصة"
   
