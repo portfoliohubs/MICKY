@@ -98,9 +98,9 @@ clinical_cases:
       - before: "before3.jpg"
         after: "after3.jpg"
         description: "esthetics by composite class IV"
-      - before: "40-veneer-before-02.jpg"
-        after: "40-veneer-after-02.jpg"
-        description: "Anterior aesthetic restoration"
+  #    - before: "40-veneer-before-02.jpg"
+   #     after: "40-veneer-after-02.jpg"
+    #    description: "Anterior aesthetic restoration"
 
   - enabled: false
     category: "Orthodontics"
