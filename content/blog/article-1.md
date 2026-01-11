@@ -1,7 +1,7 @@
 ---
 title: "Understanding Root Canal Treatment"
 date: 2024-11-20
-thumbnail: "50-blog-01.jpg"
+thumbnail: "8808.jpg"
 excerpt: "Everything you need to know about root canal therapy and why it's not as scary as you think."
 ---
 
